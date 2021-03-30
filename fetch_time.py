@@ -1,3 +1,4 @@
+
 # Supporting Program
 # fetch_time.py
 
@@ -36,3 +37,6 @@ def Johannesburg_time(current_time):
     hr = int(hr) - 4
     mins = int(mins) + 30
     print_time(hr, mins, sec)
+
+    
+    
